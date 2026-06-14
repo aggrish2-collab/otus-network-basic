@@ -92,16 +92,7 @@ Vlan1   192.168.1.10   YES manual  up  up
 
 Удалённое управление коммутатором по telnet с хоста PC1:
 
-```
-C:\>telnet 192.168.1.10
-Trying 192.168.1.10 ...Open
 
-Authorized access only
-
-User Access Verification
-Password:
-SW1>
-```
 ![Удалённый доступ telnet](screenshots/telnet.png)
 
 ## Вывод
